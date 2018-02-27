@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 /*
 font-family: 'Open Sans', sans-serif;
 font-family: 'Gentium Book Basic', serif;
@@ -20,13 +30,11 @@ header {
 }
 
 #heading {
-
 	font: 800 64px/64px 'open sans';
 	text-transform: uppercase;
 	padding-top: 100px;
 	display: block;
 	margin-bottom: 32px;
-
 
 }
 #heading span {
@@ -42,9 +50,7 @@ header h2 {
 	font: 800 20px/20px 'open sans';
 	text-transform: uppercase;
 	font-size: inherit;
-	
 }
-
 
 #subheading {
 	position: relative;
