@@ -17,7 +17,14 @@
   },
   "homepage": "https://github.com/jaredschiller/jaredisontheinternet#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "ejs": "^2.5.8",
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "express-formidable": "^1.0.0",
+    "grunt": "^1.0.2",
+    "grunt-contrib-cssmin": "^2.2.1",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "multer": "^1.3.0"
   }
 }
