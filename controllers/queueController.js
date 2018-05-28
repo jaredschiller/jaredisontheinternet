@@ -15,6 +15,7 @@ module.exports = function(app){
 
     app.post('/queue', function(req, res){
         console.log('hit the post /queue route');
+        console.log('test');
         var answers = Object.values(req.body);
         
             answers.forEach(function(value){
