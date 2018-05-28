@@ -1,2 +1,0 @@
-# jaredisontheinternet
-My Portfolio
